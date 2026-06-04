@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Gurveer Singh 👋
 
-<!--
-**Gurveer56/Gurveer56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React Native / Expo Developer focused on production mobile apps, clean UI, performance, WebView flows, notifications, and Android/iOS releases.
 
-Here are some ideas to get you started:
+## Tech I work with
+React Native, Expo, TypeScript, Expo Router, React Navigation, Zustand, TanStack Query, Firebase, EAS Build, WebView, Push Notifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Mini LMS — React Native Expo LMS app with auth, WebView, notifications, offline/error handling, APK
+- NOIR Mobile Studio — Expo apparel catalog with 3D product preview
+
+## Links
+LinkedIn: https://www.linkedin.com/in/gurveer-singh-3763b7232/
