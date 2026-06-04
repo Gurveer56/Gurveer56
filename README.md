@@ -2,32 +2,25 @@
 
 React Native / Expo developer.
 
-I work mainly on mobile apps using React Native, Expo and TypeScript. Most of my work is on company projects, so I use this GitHub to keep a few personal projects and practice apps.
+I mostly work on mobile apps using React Native, Expo and TypeScript. Most of my work is in private/company projects, so I use this account for a few public apps and practice projects.
 
-## About
+## Work
 
-* Working with React Native and Expo
-* Building Android and iOS app screens
-* API integration and authentication flows
-* Push notifications and WebView flows
-* App builds, OTA updates and store release work
-* Learning more about performance, clean structure and better UI implementation
-
-## Tech I use
-
-* React Native
-* Expo
+* React Native / Expo
 * TypeScript
-* React Navigation / Expo Router
-* Zustand / Context API
-* TanStack Query
-* Firebase
-* EAS Build
-* WebView
+* API integration
+* Authentication flows
+* WebView screens
+* Push notifications
+* EAS builds and app releases
 
-## Projects
+## Public projects
 
-I have added a few public projects here with README files, screenshots and APK/demo links where possible.
+**Mini LMS**
+A small LMS app built with Expo and TypeScript. It includes auth flow, course screens, WebView content, local storage and an APK build.
+
+**NOIR Mobile Studio**
+A mobile UI concept for product/fashion screens with animations and 3D product preview.
 
 ## Links
 
