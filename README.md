@@ -1,64 +1,43 @@
 # Gurveer Singh
 
-**Software Developer | Mobile • Web • Backend • AI/ML**
+Software Developer
 
-I build mobile and web applications, work with backend systems and APIs, and enjoy turning ideas into reliable, production-ready software.
+I build mobile and web applications and work across the frontend, backend, and APIs behind them.
 
-My current focus is expanding from application development into **AI/ML**, with an interest in building intelligent products that combine modern software engineering with machine learning.
+My main background is in React Native and Expo, and I've also worked with Node.js, databases, authentication, third-party services, analytics, notifications, and app deployment.
 
-## Technologies
+Currently, I'm spending more time on Python and AI/ML and working towards building AI-powered applications alongside the software development skills I already have.
 
-### Languages
-`TypeScript` `JavaScript` `Python` `C++`
+### Technologies
 
-### Mobile
-`React Native` `Expo` `React Navigation` `Expo Router`
+**Languages:**  
+TypeScript, JavaScript, Python, C++
 
-### Web
-`React` `Next.js` `HTML` `CSS` `Zod`
+**Mobile:**  
+React Native, Expo, React Navigation, Expo Router
 
-### Backend
-`Node.js` `Express.js` `NestJS` `MongoDB` `Mongoose` `REST APIs` `WebSockets` `JWT`
+**Web:**  
+React, Next.js, HTML, CSS, Zod
 
-### Cloud & Services
-`Firebase` `Google Analytics` `Firebase Analytics` `FCM` `AWS` `Docker` `GitHub Actions`
+**Backend:**  
+Node.js, Express.js, NestJS, MongoDB, Mongoose, REST APIs, WebSockets, JWT
 
-### AI / ML
-`Python` `NumPy` `Pandas` `Scikit-learn` `PyTorch` `Machine Learning` `Deep Learning` `LLMs` `RAG` `Vector Databases` `AI Agents`
+**Tools & Services:**  
+Git, GitHub, Docker, GitHub Actions, Firebase, Firebase Analytics, Firebase Cloud Messaging, Google Analytics, AWS
 
-## What I Do
+**AI / ML:**  
+Python, NumPy, Pandas, Scikit-learn, PyTorch, Machine Learning, Deep Learning, LLMs, RAG, Vector Databases, AI Agents
 
-- Build cross-platform mobile applications for Android and iOS
-- Build web applications and user-focused interfaces
-- Design and develop backend APIs and application services
-- Implement authentication, authorization and secure data flows
-- Integrate third-party services and APIs
-- Work with analytics, notifications, deep linking and application infrastructure
-- Build, test and release applications for production
-- Explore machine learning and AI-powered application development
+### Currently learning
 
-## Current Focus
+Python, Machine Learning, Deep Learning, LLMs, RAG, and AI application development.
 
-I'm currently expanding my skills in:
+### Experience
 
-- Python and data processing
-- Machine learning and deep learning
-- PyTorch and modern ML tooling
-- Large language models
-- Retrieval-Augmented Generation (RAG)
-- Vector databases
-- AI agents and AI-powered applications
+I've worked on production mobile applications and have experience with application development, API integration, authentication, payment and WebView flows, notifications, analytics, deployment, and Android/iOS releases.
 
-The long-term goal is to build software across the stack, from **mobile and web applications to backend systems and AI-powered products**.
+Most of my professional work is in private repositories, so I keep my public GitHub focused on work that I can share.
 
-## Experience
-
-Professional work includes production mobile applications, backend integrations, authentication systems, payment and WebView flows, notifications, analytics, deployment and app releases.
-
-Much of my professional work is private, so this profile focuses on the technologies, engineering work and projects that I can share publicly.
-
-## Connect
+### Links
 
 [LinkedIn](https://www.linkedin.com/in/gurveer-singh-3763b723/)
-
-[GitHub](https://github.com/Gurveer56)
